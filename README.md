@@ -13,13 +13,9 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 
 <br><br>Here's the link for you to watch the sessions as well<br>
 
-<a
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulHqBNcsk_zeuy1RTKePPcg">
 
-href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulHqBNcsk_zeuy1RTKePPcg">
-
-<img
-
-src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%2
+<img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%2
 
 0THUMBNAIL-2.png"> </a>
 
@@ -41,22 +37,12 @@ www.shapeai.tech
 
 or follow SHAPEAI on:
 
-<li><a href=
+<li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>
 
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 
-<li><a href=
-
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-
-<li><a
-
-href=
-
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+<li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
 
 be</a>
 
-<li><a href=
-
-"https://github.com/shapeai">GitHub</a>
+<li><a href="https://github.com/shapeai">GitHub</a>
